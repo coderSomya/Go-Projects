@@ -1,2 +1,2 @@
 # Go-Projects
-A collection of my mini GoLang projects
+A collection of my starter GoLang projects
